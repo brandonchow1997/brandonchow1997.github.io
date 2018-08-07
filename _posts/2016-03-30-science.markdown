@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Something About MIS"
+date:   2016-03-30 19:45:31 +0530
+categories: science
+author: "ZwZ"
+---
+
+With the rapid development and popularization of the computer technology and other high-tech information technology, 
+information has become one of the crucial resources and the whole world has entered into the information era.
+   
+   
