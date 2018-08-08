@@ -10,7 +10,7 @@ title: \ZwZ/
 email: zhouwenzhang1997@gmail.com
 description: just a stupid blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://brandonchow1997.github.io" # the base hostname & protocol for your site
 twitter_username:
 github_username:  brandonchow1997
 paginate: 5
